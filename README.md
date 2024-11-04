@@ -1,0 +1,1 @@
+This is a simple game made with threeJS following <a href="https://www.youtube.com/@codeandjazz">Code & Jazz's</a> tutorial, I used this project as an introduction to game development with typescript and threeJS
